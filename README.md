@@ -1,4 +1,4 @@
-### Languages and Tools:
+### About me
 Student from Paragon University majoring in Computer Science
 
 ### Languages and Tools:
