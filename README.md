@@ -1,5 +1,5 @@
 ### About me
-Student from Paragon University majoring in Computer Science
+A student from Paragon University majoring in Computer Science
 
 ### Languages and Tools:
 <p align="left">
