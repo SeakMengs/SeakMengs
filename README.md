@@ -1,7 +1,7 @@
 ### About me
 A student from Paragon University majoring in Computer Science
 
-### Learnring status:
+### Learning status:
 Currently, I'm learning data structure and algorithms in c++
 
 ### Languages and Tools:
